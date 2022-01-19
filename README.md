@@ -3,9 +3,6 @@
 [기관/과정명]
 - 한국품질재단 / 부산 클라우드 네이티브 애플리케이션 개발자 양성과정
 
-[기간]
-- 2021.06.14~2021.06.18
-
 [사용 기술]
 - HTML / CSS / React JSX
 
@@ -20,9 +17,6 @@
 [구현 결과]
 - 사용자 친화적인 UI를 생각해서 구현
 - 예매 기능에서 예외 처리를 완벽하게 하지 못한 것이 아쉬움
-
-[깃허브 페이지]
-- https://leaprealm.github.io/React-Module-Project/
 
 ![1](https://user-images.githubusercontent.com/43628076/132982332-2d2ba60e-5e5a-455b-baed-30988e53ee31.png)
 ![2](https://user-images.githubusercontent.com/43628076/132982333-86dea07e-21b3-423e-a0fc-e813743e030b.png)
